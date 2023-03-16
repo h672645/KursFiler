@@ -1,7 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Luna\KursFiler\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-1394710635.index
-3351457781.index
-2014462949.index
-3864266520.index
-4221166899.index
