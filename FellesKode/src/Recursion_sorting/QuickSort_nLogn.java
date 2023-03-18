@@ -1,15 +1,23 @@
 package Recursion_sorting;
 
-public class QuickSort {
+public class QuickSort_nLogn {
 
     public static void main(String[] args) {
         int[] intArray = { 20, 35, -15, 7, 55, 1, -22 };
 
+        for (int i = 0; i < intArray.length; i++) {
+            System.out.print(intArray[i] + " ");
+        }
+        
+        System.out.println();
+        
         quickSort(intArray, 0, intArray.length);
 
         for (int i = 0; i < intArray.length; i++) {
-            System.out.println(intArray[i]);
+            System.out.print(intArray[i] + " ");
         }
+        
+        System.out.println();
     }
 
     public static void quickSort(int[] input, int start, int end) {
@@ -18,10 +26,8 @@ public class QuickSort {
         }
 
         int pivotIndex = partition(input, start, end);
+        
         quickSort(input, start, pivotIndex);
-        for (int i = 0; i < input.length; i++) {
-            System.out.println(input[i]);
-        }
         quickSort(input, pivotIndex + 1, end);
     }
 

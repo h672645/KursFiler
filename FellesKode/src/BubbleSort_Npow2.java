@@ -1,6 +1,6 @@
 
 
-public class BubbleSort {
+public class BubbleSort_Npow2 {
 
     public static void main(String[] args) {
 

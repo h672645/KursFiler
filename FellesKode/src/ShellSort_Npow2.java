@@ -1,6 +1,6 @@
 
 
-public class ShellSort {
+public class ShellSort_Npow2 {
 
     public static void main(String[] args) {
 

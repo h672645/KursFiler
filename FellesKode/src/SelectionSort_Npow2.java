@@ -1,6 +1,6 @@
 
 
-public class SelectionSort {
+public class SelectionSort_Npow2 {
 
     public static void main(String[] args) {
 

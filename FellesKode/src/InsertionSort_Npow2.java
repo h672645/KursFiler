@@ -1,6 +1,6 @@
 
 
-public class InsertionSort {
+public class InsertionSort_Npow2 {
 
     public static void main(String[] args) {
 
