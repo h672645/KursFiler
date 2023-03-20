@@ -1,7 +1,7 @@
 package Recursion_sorting;
 
 
-public class Recursion {
+public class RecursionExample {
 
     public static void main(String[] args) {
 
