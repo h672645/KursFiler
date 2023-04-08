@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Main.java&apos; to &apos;FellesKode/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;Sort-Algorithms-Selection-Sort-(Implementation)-Source-Code&apos;&#x0D;&#x0A;- Destination element: &apos;FellesKode/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;academy.learnprogramming.selectionsort.Main.java&apos;" description="Copy compilation unit" destination="=FellesKode/src&lt;" element1="/src&lt;academy.learnprogramming.selectionsort{Main.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1679086124248" units="1" version="1.0"/>
+</session>
