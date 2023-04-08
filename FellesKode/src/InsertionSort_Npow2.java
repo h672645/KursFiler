@@ -4,7 +4,7 @@ public class InsertionSort_Npow2 {
 
     public static void main(String[] args) {
 
-        int[] intArray = { 20, 35, -15, 7, 55, 1, -22 };
+        int[] intArray = { 20, 353, -1115, 7, 554, 1555, -222 };
 
         for (int firstUnsortedIndex = 1; firstUnsortedIndex < intArray.length;
                 firstUnsortedIndex++) {
