@@ -1,3 +1,4 @@
+package SearchMethods.bin;
 
 
 public class InsertionSort_Npow2 {

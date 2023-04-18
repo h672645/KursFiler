@@ -1,3 +1,4 @@
+package SearchMethods.bin;
 
 
 public class ShellSort_Npow2 {
